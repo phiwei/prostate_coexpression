@@ -8,6 +8,11 @@ Molecular phenotyping by gene expression profiling is central in contemporary ca
 A draft of our manuscript is available from arxiv.org:
 https://arxiv.org/abs/2104.09310
 
+This example uses the same patient selection and data split as the publication:
+![selection](data/patient_selection.jpg)
+
+Genes are selected and predicted as depicted in this schematic:
+![model](data/model.jpg)
 
 ## Data download
 
