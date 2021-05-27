@@ -1,0 +1,12 @@
+accimage==0.1.1
+torch==1.8.1
+tqdm==4.47.0
+joblib==1.0.1
+ray==0.8.6
+numpy==1.19.2
+pandas==1.0.5
+openslide_python==1.1.1
+scipy==1.5.2
+torchvision==0.2.2
+Pillow==8.2.0
+scikit_learn==0.24.2
